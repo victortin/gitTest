@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MultiProperties xmlns="hu.skzs.multiproperties">
+    <Version>1.2</Version>
+    <Name>d</Name>
+    <Description>test</Description>
+    <Handler>Text File Handler</Handler>
+    <Columns>
+        <Key>
+            <Width>200</Width>
+        </Key>
+        <Column>
+            <Name>adf</Name>
+            <Description>adfd</Description>
+            <Width>150</Width>
+            <HandlerConfiguration></HandlerConfiguration>
+        </Column>
+        <Column>
+            <Name></Name>
+            <Description></Description>
+            <Width>150</Width>
+            <HandlerConfiguration></HandlerConfiguration>
+        </Column>
+    </Columns>
+    <Records/>
+</MultiProperties>
